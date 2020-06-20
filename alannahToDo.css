@@ -1,0 +1,14 @@
+body {
+    background-image: url(https://images.unsplash.com/photo-1565791380709-49e529c8b073?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1401&q=80);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Lato', sans-serif;
+    color: rgb(197, 195, 195);
+    text-align: right;
+}
+
+.form-check {
+    align-items: center;
+}
+
+
